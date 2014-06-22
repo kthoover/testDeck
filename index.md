@@ -28,3 +28,10 @@ plot(1:10, 1:10)
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 
+
+--- .class #id 
+
+## Here it is -- How Long Will It Last?
+
+
+<img src="assets/fig/DB1.png" style="width: 1000px;"/>  
