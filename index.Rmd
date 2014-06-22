@@ -38,9 +38,15 @@ knit        : slidify::knit2slides
 
 
 
-## Here it is -- How Long Will It Last?
+## Here it is -- How Long Will It Last?ddddd
 
-<img src="assets/img/DB1.png" style="width: 1000px;"/> 
+```{r echo=FALSE, fig.width=14, fig.height=5}
+library(jpeg)
+library(biOps)
+image <- readJpeg("assets/fig/DB1j.jpg")
+plot(image)
+
+```
 
 
 
@@ -55,7 +61,13 @@ knit        : slidify::knit2slides
 
 ## Improve Your Future
 
-<img src="assets/img/IB1.png" style="width: 1000px;"/>  
+```{r echo=FALSE, fig.width=14, fig.height=5}
+library(jpeg)
+library(biOps)
+image <- readJpeg("assets/fig/IB1j.jpg")
+plot(image)
+
+```
 
 
 1.  Change the setting to see how to make your nest egg last longer.
