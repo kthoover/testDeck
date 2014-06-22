@@ -1,6 +1,7 @@
 base
 BiocInstaller
 biOps
+EBImage
 jpeg
 png
 slidify

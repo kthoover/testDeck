@@ -40,8 +40,8 @@ knit        : slidify::knit2slides
 
 ## Here it is -- How Long Will It Last?
 
+<img src="assets/img/DB1.png" style="width: 1000px;"/> 
 
-<img src="assets/fig/DB1.png" style="width: 1000px;"/>  
 
 
 1.  Enter you current savings and investments in the top scroll box and how much you think you will spend in your first year of retirement in the second scoll box.
@@ -55,7 +55,7 @@ knit        : slidify::knit2slides
 
 ## Improve Your Future
 
-<img src="assets/fig/IB1.png" style="width: 1000px;"/>  
+<img src="assets/img/IB1.png" style="width: 1000px;"/>  
 
 
 1.  Change the setting to see how to make your nest egg last longer.
@@ -72,7 +72,7 @@ knit        : slidify::knit2slides
 
 
 
-## Possible Improvements and Next Steps  
+## Possible Improvements and Next Steps 
 <br>
 1.  Allow for defined contributions, including Social Security and pensions. 
 <br>
@@ -101,21 +101,6 @@ t <- paste(weekdays(d), months(d), as.numeric(format(d, "%d")), as.numeric(forma
 ### Today is Sunday June 22 2014, start planning for your retirement now.
 
 [How Long Will It Last?](https://kthoover.shinyapps.io/Shiny1/)
-
-
-
---- .class #id 
-
-
-
-
-```
-## Error: Cannot open file.
-```
-
-```
-## Error: argument must be matrix-like
-```
 
 
 
