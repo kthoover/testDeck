@@ -1,8 +1,6 @@
 base
-datasets
-graphics
-grDevices
-methods
+BiocInstaller
+biOps
+jpeg
+png
 slidify
-stats
-utils
