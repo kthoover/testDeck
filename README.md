@@ -1,5 +1,7 @@
 testDeck
 ========
+My second attempt to make this work since the first time the images would not show up
+
 
 This is a test deck for publishing a slidify document.
 
